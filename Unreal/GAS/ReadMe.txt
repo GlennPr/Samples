@@ -1,6 +1,6 @@
 
 
-This is a small demo project to setup a couple of abilities with Unreal GAS.
+This is a small demo project to setup a couple of abilities with Unreal (5.2) GAS.
 These abilities can trigger other abilities / events when combined:
 
 FireBall (Left Mouse)
