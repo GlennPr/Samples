@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Unreal/GAS/GAS_Showcase/Binaries
+Unreal/GAS/GAS_Showcase/Build
+Unreal/GAS/GAS_Showcase/Builds
+Unreal/GAS/GAS_Showcase/Saved
+Unreal/GAS/GAS_Showcase/Intermediate
